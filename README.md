@@ -39,7 +39,9 @@
 
 # Social Science
 
-coming soon!
+| Category                    | Website                                                                                   | Github repo                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| AI4Economy                  | [AI4Economy](https://yuzehao2023.github.io/daily-arxiv-ai4economy/)                       | [daily-arxiv-ai4economy](https://github.com/YuzeHao2023/daily-arxiv-ai4economy)     |
 
 <div align="right">
     <b><a href="#Table-of-contents">↥ back to top</a></b>
