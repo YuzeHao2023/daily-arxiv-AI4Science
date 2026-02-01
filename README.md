@@ -31,6 +31,7 @@
 | --------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | AI4Chemical-Engineering     | [AI4Chemical-Engineering](https://yuzehao2023.github.io/daily-arxiv-ai4cheme/)            | [daily-arxiv-ai4cheme](https://github.com/YuzeHao2023/daily-arxiv-ai4cheme)         |
 | AI4Polymer                  | [AI4Polymer](https://yuzehao2023.github.io/daily-arxiv-ai4polymer/)                       | [daily-arxiv-ai4polymer](https://github.com/YuzeHao2023/daily-arxiv-ai4polymer)     |
+| AI4Senser                   | [AI4Senser](https://github.com/dvlan26/daily-arxiv-ai4sensor)                             | [daily-arxiv-ai4senser](https://dvlan26.github.io/daily-arxiv-ai4sensor/)           |
 
 
 <div align="right">
